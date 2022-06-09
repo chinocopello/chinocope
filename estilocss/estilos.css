@@ -1,0 +1,96 @@
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* { padding: 0;
+border: 0;
+margin: 0;}
+
+body {
+    background-image: url(../fotos/fondo\ blanco.jpg);
+}
+
+#fotoinicio { 
+    text-align: center;
+}
+
+
+
+ul {text-align: center; 
+    display: flex;
+ flex-direction: row;
+text-decoration: none;
+list-style-type: none;
+font-size: 40px ;
+font-weight: bold;
+}
+
+a { padding: 60px 120px;
+    text-align: center;
+    color: rgb(27, 124, 124);}
+
+
+.sinsubrayar { 
+    padding-right: 30px; margin-right: 5%;
+    
+    text-decoration: none;
+    
+}
+h1 { text-align: center;
+    font-size: 30px;
+     margin: 10% 25% 5%;
+      color:rgb(236, 105, 12) ;
+    background-color:rgb(27, 124, 124) ;}
+    
+    .mainflex { display:flex; 
+    
+
+    
+        }
+  
+     aside { margin-right: 1%;
+            padding-right: 1%;}
+       
+
+    section {display:flex;
+        flex-direction: column;
+        
+        margin: 20px 10px;
+        justify-content: space-between;}
+
+        
+
+
+    article { display: inline-block;
+        background-color: rgb(253, 252, 252);
+       
+        padding: 15px 4px;
+        margin: 25% 25% 25% 35%;
+        color:rgb(27, 124, 124) ;
+        font-weight: bold;
+     
+       font-size: 20px;
+}
+
+
+
+footer { 
+    padding-top: 8%;
+    padding-right: 4%;
+    text-align: right;
+    color:rgb(27, 124, 124) ;}
+
+    .donde { padding-right: 6%;}
+
+    .saludo { text-align: center;
+    margin-top: 3%;}
+
+    .inicio { padding: 0 ;
+        padding-bottom: 3%;
+
+
+        text-align: right;
+    }
+
